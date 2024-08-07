@@ -17,7 +17,7 @@ Explore LangChain's capabilities by seamlessly importing and invoking a chat mod
 | [Introduction to LangChain](./lang-chain/intro-to-langchain-starter-code.ipynb)  | 15 min |  Import and call a chat model in LangChain and work with Prompt Templates. |
 | [Document Loaders and Splitters](./loaders-and-splitters/loaders-and-splitters-starter-code.ipynb)   | 15 min | Discuss advanced prompt engineering techniques in LangChain.|
 | [Advanced: Multiple Chains](./multiple-chains/multiple-chains-starter-code.ipynb) | 30 min |  Practice chaining and sequential chaining. |
-| [Complex Tasks](./blog-post-lab/blog-post-lab-starter-code.ipynb) | 30 min | Utliize list generation, task decompoisiton, and sequential chains. |
+| [Complex Tasks](./blog-post-lab/blog-post-lab-starter-code.ipynb) | 30 min | Utliize list generation, task decomposition, and sequential chains. |
 | **Total content**   | 90 min |     |
 
 
